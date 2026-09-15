@@ -80,7 +80,7 @@ Focus areas:
 
 ---
 
-### C Compiler
+### [C Compiler](https://github.com/siriusdemon/memorandum)
 
 A small C compiler project for studying compiler implementation and the C language.
 
