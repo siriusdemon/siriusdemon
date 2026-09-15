@@ -142,10 +142,8 @@ I am interested in opportunities related to:
 
 * Compiler Development
 * Programming Languages
-* Systems Programming
 * AI Compiler / AI Systems
 * Automotive Software
-* Automotive Diagnostic Software
 
 I am especially interested in combining my experience in **AI, compilers, and automotive software** to build reliable and efficient software systems.
 
