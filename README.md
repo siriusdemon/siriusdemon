@@ -47,6 +47,21 @@ Currently working on compiler-related development and automotive diagnostic soft
 
 ## 🚀 Featured Projects
 
+### [Build-Your-Own-Face-Model](https://github.com/siriusdemon/Build-Your-Own-Face-Model)
+
+Build your own ArcFace, CenterFace / CenterNet
+
+A step-by-step exploration of face recognition and face detection models, with technical articles and implementations.
+
+Topics include:
+
++ Face Recognition
++ ArcFace
++ Face Detection
++ CenterFace / CenterNet
+
+The repository includes Chinese technical articles explaining the principles behind face representation, similarity measurement, and face recognition model training.
+
 ### [P523-Rust](https://github.com/siriusdemon/P523-Rust)
 
 A Scheme programming language compiler implemented in **Rust**.
