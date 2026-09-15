@@ -41,9 +41,7 @@ Currently working on compiler-related development and automotive diagnostic soft
 
   * Computer Vision
   * Model Optimization
-  * AI Systems
-  * TensorFlow
-  * OpenCV
+  * AI Compiler
 
 ---
 
