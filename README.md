@@ -1,4 +1,4 @@
-# Hi, I'm Sirius (Li) 👋
+# Hi, I'm SiriusDemon (Li) 👋
 
 **Software Engineer | Compiler & Programming Languages | Automotive Diagnostics | AI**
 
