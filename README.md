@@ -1,135 +1,158 @@
 # Hi, I'm Sirius (Li) 👋
 
-**Software Engineer | Compiler | Automotive Diagnostics | AI**
+**Software Engineer | Compiler & Programming Languages | Automotive Diagnostics | AI**
 
-I am a software engineer with experience in **AI, automotive diagnostic software, and compiler development**.
+Software engineer with experience in **AI, computer vision, automotive diagnostic software, and compiler-related development**.
 
-I enjoy learning technologies from the fundamentals and building systems from scratch.
+I enjoy understanding how software works from the lower level and building systems from scratch, especially in **programming languages, compilers, interpreters, and system software**.
 
-Currently, I am working on **automotive diagnostic software** and developing **ATX, a domain-specific language and compiler for automotive diagnostic programming**.
+Currently working on compiler-related development and automotive diagnostic software.
 
 ---
 
 ## 🔧 Technical Interests
 
 * **Compiler & Programming Languages**
-* **Automotive Diagnostic Software**
-* **AI Compiler & Model Optimization**
-* **C++ / Rust / Python**
-* **LLVM / MLIR / TVM**
-* **Linux & Embedded Systems**
+
+  * Lexing / Parsing / AST
+  * Interpreter & Code Generation
+  * Compiler Architecture
+  * Domain-Specific Languages
+  * LLVM / MLIR
+
+* **Systems & Software**
+
+  * C++
+  * Rust
+  * Python
+  * Linux
+  * Embedded Systems
+
+* **Automotive Diagnostics**
+
+  * ISO 13209 / OTX
+  * UDS
+  * CAN / CAN FD
+  * DoIP
+  * ODX
+  * Diagnostic Software
+
+* **AI / Machine Learning**
+
+  * Computer Vision
+  * Model Optimization
+  * AI Systems
+  * TensorFlow
+  * OpenCV
 
 ---
 
 ## 🚀 Featured Projects
 
-### ATX Language & Compiler
+### [P523-Rust](https://github.com/siriusdemon/P523-Rust)
 
-A domain-specific language designed to simplify automotive diagnostic programming.
+A Scheme programming language compiler implemented in **Rust**.
 
-```text
-ATX Source
-    │
-    ▼
-Lexical Analysis
-    │
-    ▼
-Parser
-    │
-    ▼
-AST
-    │
-    ▼
-Code Generation
-    │
-    ▼
-OTX Script
-    │
-    ▼
-OTX Runtime
-```
+Focus areas:
 
-The project covers compiler fundamentals such as lexical analysis, parsing, AST construction, and code generation.
+* Lexical analysis
+* Parsing
+* AST
+* Compiler implementation
+* Runtime concepts
+* Rust-based language implementation
 
-### P523-Rust
+---
 
-A **Scheme compiler implemented in Rust**.
+### [Rare](https://github.com/siriusdemon/Rare)
 
-Developed as a personal project to study programming language implementation and compiler architecture.
+A **RISC-V simulator written in Rust**.
 
-### Rare
+The project explores computer architecture and low-level software concepts through implementation.
 
-A **RISC-V simulator implemented in Rust**.
+Focus areas:
 
-A personal project for exploring instruction execution, CPU architecture, and low-level software development.
+* RISC-V architecture
+* Instruction execution
+* CPU simulation
+* Memory model
+* Rust systems programming
+
+---
 
 ### C Compiler
 
-A small C compiler project developed while studying compiler implementation and the C language.
+A small C compiler project for studying compiler implementation and the C language.
+
+Focus areas:
+
+* C language parsing
+* AST
+* Code generation
+* Compiler implementation techniques
 
 ---
 
-## 🚗 Automotive Diagnostics
+## 💻 What I Work With
 
-My professional experience includes development of automotive diagnostic software based on:
-
-* **ISO 13209 / OTX**
-* **UDS**
-* **CAN / CAN FD**
-* **DoIP**
-* **ODX**
-* **PDU API**
-
-I have worked on diagnostic runtimes, communication layers, diagnostic scripts, ECU flashing, and production-line diagnostic systems.
+| Area       | Technologies                              |
+| ---------- | ----------------------------------------- |
+| Languages  | C++, Rust, Python                         |
+| Compiler   | LLVM, MLIR, Parsing, AST, Code Generation |
+| Automotive | OTX, UDS, CAN, CAN FD, DoIP, ODX          |
+| AI         | TensorFlow, OpenCV, Computer Vision       |
+| OS         | Linux, Windows, QNX, Android              |
+| Tools      | Git, Docker, VS Code                      |
 
 ---
 
-## 🤖 AI & Computer Vision
+## 🧩 Engineering Background
 
-Before moving into automotive software, I worked as an AI engineer on:
+My software development experience spans several areas:
 
-* Image recognition
-* Face detection and recognition
-* Pose estimation
-* Human-body segmentation
-* Motion recognition
-* CAPTCHA recognition
-* AI service integration
+**AI / Computer Vision → Automotive Diagnostics → Compiler Development**
 
-Technologies included **Python, TensorFlow, OpenCV, Flask, Docker, and MySQL**.
+I have worked on:
 
----
+* Computer vision and AI algorithms
+* AI service integration platforms
+* Automotive diagnostic software
+* OTX runtime and diagnostic execution systems
+* Cross-platform software
+* Compiler and programming-language related development
 
-## 🛠️ Languages & Technologies
-
-**Programming**
-
-`C++` `Python` `Rust` `JavaScript`
-
-**Compiler / AI**
-
-`LLVM` `MLIR` `TVM` `ONNX` `TensorRT`
-
-**Automotive**
-
-`OTX` `UDS` `CAN` `CAN FD` `DoIP` `ODX`
-
-**Platforms**
-
-`Linux` `Windows` `QNX` `Android`
+I particularly enjoy projects that require understanding the **language, runtime, execution model, and underlying system**, rather than only application-level implementation.
 
 ---
 
-## 🇯🇵 日本語
+## 📚 Currently Learning
 
-ソフトウェアエンジニアとして、AI・画像認識、自動車診断ソフトウェア、コンパイラなどの開発に携わってきました。
-
-現在は、C++を中心に自動車診断ソフトウェアおよびOTX Runtimeなどの開発を行っています。また、診断プログラムの開発効率向上を目的として、独自のATX言語およびコンパイラの設計・開発にも取り組んでいます。
-
-個人開発では、Rustを使用したRISC-VシミュレータやSchemeコンパイラなど、プログラミング言語や低レイヤー技術の学習・実装にも取り組んでいます。
+* Compiler architecture
+* LLVM / MLIR
+* Programming language implementation
+* AI compiler and model optimization
+* Rust systems programming
+* Automotive diagnostic technologies
 
 ---
 
-## 📫 Links
+## 🌏 About Me
 
-* GitHub: https://github.com/siriusdemon
+I am interested in opportunities related to:
+
+* Compiler Development
+* Programming Languages
+* Systems Programming
+* AI Compiler / AI Systems
+* Automotive Software
+* Automotive Diagnostic Software
+
+I am especially interested in combining my experience in **AI, compilers, and automotive software** to build reliable and efficient software systems.
+
+---
+
+## 📫 Contact
+
+GitHub: [github.com/siriusdemon](https://github.com/siriusdemon)
+
+Thanks for visiting my profile! 🚀
